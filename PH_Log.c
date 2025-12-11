@@ -1,0 +1,1 @@
+class PH_Log{ static void Info(string m){Print("[PlayersHome] "+m);} static void Warn(string m){Print("[PlayersHome][WARN] "+m);} static void Error(string m){Print("[PlayersHome][ERROR] "+m);} };
